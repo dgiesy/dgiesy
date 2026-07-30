@@ -7,8 +7,7 @@ and automation platforms at Apple, PayPal, and Charles Schwab. Most recently, au
 Most of my work lives in private, internal repositories rather than here — large-scale enterprise platforms rarely get o
 pen-sourced — so this profile understates the day job more than it represents it.
 
-Writing on debugging methodology and test automation strategy: [The Code Monkey Collective Consciousness](https://codemo
-nkeycollective.blogspot.com)
+Writing on debugging methodology and test automation strategy: [The Code Monkey Collective Consciousness](https://codemonkeycollective.blogspot.com)
 
 Currently exploring agentic AI systems for test generation and coverage analysis.
 
