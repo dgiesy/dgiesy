@@ -1,16 +1,15 @@
-## Hi there 👋
+### Darrin Giesy
 
-<!--
-**dgiesy/dgiesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+15+ years building the systems that make software quality measurable and sustainable: test frameworks, CI/CD pipelines,
+and automation platforms at Apple, PayPal, and Charles Schwab. Most recently, autonomous AI agents for test coverage and
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work lives in private, internal repositories rather than here — large-scale enterprise platforms rarely get o
+pen-sourced — so this profile understates the day job more than it represents it.
+
+Writing on debugging methodology and test automation strategy: [The Code Monkey Collective Consciousness](https://codemo
+nkeycollective.blogspot.com)
+
+Currently exploring agentic AI systems for test generation and coverage analysis.
+
+Open to contributing to open-source quality/testing tooling.
